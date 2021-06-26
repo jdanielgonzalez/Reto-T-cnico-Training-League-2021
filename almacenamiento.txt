@@ -1,0 +1,10 @@
+pista en la que se realizo la carrera --->4 longitud-->20Km
+numero de juagdores: 5
+tabla de posiciones:
+posicion 1-------> Andrea------>  victorias: 1
+posicion 2-------> Chillin------>  victorias: 0
+posicion 3-------> Daniel------>  victorias: 0
+2021-06-26 18:39:22
+--------------------------------
+Partida finalizada
+*****************************************************
